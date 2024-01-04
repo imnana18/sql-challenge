@@ -33,7 +33,8 @@ Please refer to the `SQL` section of the `EmployeeSQL` folder for importing data
 
 
 ### Data Analysis
-Performed the following queries on the database using SQL in pgAdmin4 with Postgres to retrieve the following data (refer to `sql_challenge_analysis.sql` for code to run queries):
+See `sql_challenge_analysis.sql` for code to run queries.
+Performed the following queries on the database using SQL in pgAdmin4 with Postgres to retrieve the following data:
 
 
 1. List employee number, last name, first name, sex, and salary of each employee.

@@ -20,8 +20,13 @@ The challenge comprises three parts: data modeling, data engineering, and data a
   - Defined data types, primary keys, foreign keys, and other constraints.
   - Ensured uniqueness for primary keys; use composite keys if necessary.
   - Created tables in the correct order to manage foreign keys.
+    
+** NOTE: Please refer to the DB DDL section of the EmployeeSQL folder for table schemas.
+
 - Imported each CSV file into its respective SQL table.
-- NOTE: Please refer to the DB DDL section of the EmployeeSQL folder for table schemas.
+
+** NOTE: Please refer to the SQL section of the EmployeeSQL folder for importing data into created tables.
+
 
 ### Data Analysis
 Performed the following queries on the database using SQL in Postgres:

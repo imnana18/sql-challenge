@@ -10,7 +10,7 @@ Downloaded files from [Module 9 Challenge files](#).
 The challenge comprises three parts: data modeling, data engineering, and data analysis.
 
 ### Data Modeling
-- Inspected the CSV files and sketched an Entity Relationship Diagram (ERD) of the tables, using Quick DBD.
+- Inspected the CSV files and sketched an Entity Relationship Diagram (ERD) of the tables, using `Quick DBD`.
 
 ![image](https://github.com/imnana18/sql-challenge/assets/147445115/e4b57349-3aa5-47fe-bf58-546da27e1b5d)
 

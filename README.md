@@ -10,7 +10,9 @@ Downloaded files from [Module 9 Challenge files](#).
 The challenge comprises three parts: data modeling, data engineering, and data analysis.
 
 ### Data Modeling
-- Inspect the CSV files and sketch an Entity Relationship Diagram (ERD) of the tables, using tools like QuickDBD or similar.
+- Inspect the CSV files and sketch an Entity Relationship Diagram (ERD) of the tables, using Quick DBD.
+![image](https://github.com/imnana18/sql-challenge/assets/147445115/e4b57349-3aa5-47fe-bf58-546da27e1b5d)
+
 
 ### Data Engineering
 - Utilized provided information to create table schemas for the six CSV files.
@@ -30,5 +32,4 @@ Performed the following queries on the database using SQL in Postgres:
 6. List employees in the Sales department, including their employee number, last name, and first name.
 7. List employees in Sales and Development departments with employee number, last name, first name, and department name.
 8. List the frequency counts, in descending order, of all employee last names.
-
 

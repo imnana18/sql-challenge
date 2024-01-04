@@ -21,11 +21,12 @@ The challenge comprises three parts: data modeling, data engineering, and data a
   - Ensured uniqueness for primary keys; use composite keys if necessary.
   - Created tables in the correct order to manage foreign keys.
     
-** NOTE: Please refer to the DB DDL section of the EmployeeSQL folder for table schemas.
+** NOTE: Please refer to the `DB DDL` section of the `EmployeeSQL` folder for table schemas.
 
 - Imported each CSV file into its respective SQL table.
 
-** NOTE: Please refer to the SQL section of the EmployeeSQL folder for importing data into created tables.
+** NOTE: Please refer to the `SQL` section of the `EmployeeSQL` folder for importing data into created tables.
+  - `prepare_SQL.py` file contains code used to prepare CSV data for SQL use.
 
 
 ### Data Analysis

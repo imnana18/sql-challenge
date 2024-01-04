@@ -34,7 +34,7 @@ Please refer to the `SQL` section of the `EmployeeSQL` folder for importing data
 
 ### Data Analysis
 Refer to `sql_challenge_analysis.sql`. 
-Performed the following queries on the database using SQL in Postgres:
+Performed the following queries on the database using SQL in pgAdmin4 with Postgres:
 1. List employee number, last name, first name, sex, and salary of each employee.
 2. List first name, last name, and hire date for employees hired in 1986.
 3. List managers of each department with department number, department name, employee number, last name, and first name.

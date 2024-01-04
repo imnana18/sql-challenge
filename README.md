@@ -17,9 +17,9 @@ The challenge comprises three parts: data modeling, data engineering, and data a
 
 ### Data Engineering
 - Utilized provided information to create table schemas for the six CSV files.
-  - Define data types, primary keys, foreign keys, and other constraints.
-  - Ensure uniqueness for primary keys; use composite keys if necessary.
-  - Create tables in the correct order to manage foreign keys.
+  - Defined data types, primary keys, foreign keys, and other constraints.
+  - Ensured uniqueness for primary keys; use composite keys if necessary.
+  - Created tables in the correct order to manage foreign keys.
 - Imported each CSV file into its respective SQL table.
 - NOTE: Please refer to the DB DDL section of the project for table schemas.
 

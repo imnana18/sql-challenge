@@ -4,7 +4,7 @@
 As a new data engineer at Pewlett Hackard, your task is to research individuals employed during the 1980s and 1990s using the company's employee database. The database consists of six CSV files. This project involves designing tables, importing CSV data into a SQL database, and conducting data analysis.
 
 ## Files
-Downloaded files from [Module 9 Challenge files](#)
+Downloaded files from [Module 9 Challenge files](#).
 
 ## Overview
 The challenge comprises three parts: data modeling, data engineering, and data analysis.
